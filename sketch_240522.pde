@@ -1,3 +1,3 @@
 void setup(){
-  size(300,300);
+  size(500,500);
 }
